@@ -39,9 +39,9 @@
     - 전 세계의 무수한 리소스는 각각 URI로 의미있는 이름을 가짐
     - 예시
         - 서울의 일기예보
-            - https://weather.naver.com/rgn/ccityWetrWarea.nh n?cityRgnCd=CT00100058
+            - https://weather.naver.com/rgn/ccityWetrWarea.nhn?cityRgnCd=CT00100058
         - Dijkstra의 논문 "Go To Statement Considered Harmful"
-            - http://www.ecn.purdue.edu/ParaMount/ papers/ dijkstra68goto.pdf
+            - http://www.ecn.purdue.edu/ParaMount/papers/dijkstra68goto.pdf
     - → 리소스의 이름이란 URI를 뜻함
         - URI로 식별할 수 있음
     - URI를 이용함으로써, 프로그램은 리소스가 표현하는 정보에 접근할 수 있다.
